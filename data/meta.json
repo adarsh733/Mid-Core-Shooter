@@ -1,0 +1,43 @@
+{
+  "maps": {
+    "AmbroseValley": {
+      "matches": 567,
+      "player_files": 837,
+      "events": 61013,
+      "dates": [
+        "February_10",
+        "February_11",
+        "February_12",
+        "February_13",
+        "February_14"
+      ],
+      "file": "AmbroseValley.json"
+    },
+    "GrandRift": {
+      "matches": 59,
+      "player_files": 111,
+      "events": 6853,
+      "dates": [
+        "February_10",
+        "February_11",
+        "February_12",
+        "February_13",
+        "February_14"
+      ],
+      "file": "GrandRift.json"
+    },
+    "Lockdown": {
+      "matches": 171,
+      "player_files": 295,
+      "events": 21238,
+      "dates": [
+        "February_10",
+        "February_11",
+        "February_12",
+        "February_13",
+        "February_14"
+      ],
+      "file": "Lockdown.json"
+    }
+  }
+}
