@@ -8,7 +8,7 @@ A production-grade, browser-based telemetry tool that turns raw match data into 
 
 ## Live Tool
 
-> 🔗 **[Insert your deployed URL here]**
+> 🔗 https://genuine-melomakarona-ee6984.netlify.app/
 
 No login. No setup. Open and explore.
 
