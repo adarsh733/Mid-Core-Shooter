@@ -1,8 +1,8 @@
-# LILA BLACK — Player Journey Visualizer
+# Mid-Core Shooter — Player Journey Visualizer
 
 A production-grade, browser-based telemetry tool that turns raw match data into actionable map insights for level designers.
 
-**Built by:** Adarsh Nagar | **Role:** APM Assignment — LILA Games
+**Built by:** Adarsh Nagar 
 
 ---
 
@@ -16,7 +16,7 @@ No login. No setup. Open and explore.
 
 ## What It Does
 
-Load any match from 5 days of real LILA BLACK telemetry. See every player path drawn on the actual minimap. Watch the match replay at your own pace. Toggle heatmaps to reveal kill clusters, death zones, and ignored map areas — all in a single browser tab, designed for level designers who want map intuition, not raw tables.
+Load any match from 5 days of real Mid-Core Shooter telemetry. See every player path drawn on the actual minimap. Watch the match replay at your own pace. Toggle heatmaps to reveal kill clusters, death zones, and ignored map areas — all in a single browser tab, designed for level designers who want map intuition, not raw tables.
 
 ---
 
