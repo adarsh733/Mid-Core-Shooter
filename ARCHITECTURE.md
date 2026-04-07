@@ -1,4 +1,4 @@
-# Architecture — LILA BLACK Player Journey Visualizer
+# Architecture — Mid-Core Shooter Player Journey Visualizer
 
 **One-page design doc** covering stack choices, data flow, coordinate mapping, assumptions, and tradeoffs.
 
