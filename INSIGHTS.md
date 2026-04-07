@@ -1,4 +1,4 @@
-# Insights — LILA BLACK Player Data Analysis
+# Insights — Mid-Core Shooter Player Data Analysis
 
 Three findings from 5 days of production telemetry (Feb 10–14, 2026).
 **796 matches · 89,104 events · 339 unique players · 3 maps**
